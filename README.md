@@ -20,7 +20,7 @@ Key Contributions
 
 
 
-## 📊 Supply Chain Analytics – Data Cleaning Dashboard
+ Supply Chain Analytics – Data Cleaning Dashboard
 
 This Excel workbook demonstrates mock data cleaning steps typically performed before importing data into Power BI for visualization. It mimics real-world supply chain datasets and outlines how to transform messy inputs into clean, analysis-ready outputs.
 
