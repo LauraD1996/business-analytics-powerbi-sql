@@ -1,12 +1,12 @@
 # business-analytics-powerbi-sql
-Business analytics projects using SQL and Power BI to drive performance insights in supply chain and category management
+Business analytics projects using SQL and Power BI to drive performance insights in supply chain
 
 # Functional Nutrition Analytics
 
 This project showcases business analytics work from my role as a Category & Procurement Manager at a global health supplements startup.
 
 ## 🔍 Business Objective
-Use data to optimize demand planning, supplier margin, and inventory efficiency across EU, US, and Asia operations.
+Use data to optimize demand planning, supplier margin, and inventory efficiency across EU, US, and Asia operations.  Due to senstiive data I used mock examples of different reporting structures I would use
 
 ## 🧰 Tools Used
 - SQL (PostgreSQL & MySQL)
