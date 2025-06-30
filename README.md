@@ -27,3 +27,15 @@ Use data to optimize demand planning, supplier margin, and inventory efficiency 
 - Reduced stock holding value by 6%  
 - Increased gross margin by 0.78% across 1600 SKUs  
 - Improved decision-making speed for senior leadership
+
+
+## 📊 Supply Chain Analytics – Data Cleaning Dashboard
+
+This Excel workbook demonstrates mock data cleaning steps typically performed before importing data into Power BI for visualization. It mimics real-world supply chain datasets and outlines how to transform messy inputs into clean, analysis-ready outputs.
+
+**Key Features:**
+- Cleaning inconsistent naming conventions
+- Removing blank/null values
+- Formatting date and product categories
+- Creating calculated columns (e.g., lead time, delivery status)
+
