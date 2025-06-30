@@ -1,0 +1,9 @@
+// MEASURES:  HELP TRACK REVENUE
+
+Total Qty = SUM('orders_lineItem'[quantity])
+Total Revenue = SUM('orders_lineItem'[SKU Price])
+
+Calculated columns for analysis:
+Year = YEAR([createdAt])
+Month = FORMAT([createdAt], "MMM")
+SKU Price = RELATED('Pricing BI'[Price_EUR Selling])
